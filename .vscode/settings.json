@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "G:/Documents/PlatformIO/Projects/rgb_controller_slave_espnow/.pio/libdeps/esp32-s3-devkitc-1/FastLED",
+    "cmake.configureOnOpen": true
+}
